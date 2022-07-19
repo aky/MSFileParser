@@ -34,3 +34,10 @@ Please note that the library will provide data strcutures for further processing
 * FDR estimation 
 * integrating search results from multiple algorithms
 * visualization
+
+
+# Help and Support
+For help with the library or use cases, please use the issues tracker.
+
+# Email
+For further support, please email suruchi@thsti.res.in with cc to amit.yadav@thsti.res.in
