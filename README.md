@@ -19,7 +19,7 @@ Please note that the library will provide data strcutures for further processing
 * Deisotoping
 * Peak picking from raw MS/MS spectra
 * Noise removal
-* Spectra filtering and selection based on disgnostic ions
+* Spectra filtering and selection based on diagnostic ions
 * de novo sequencing
 * PTM-specific spectra filtering
 
