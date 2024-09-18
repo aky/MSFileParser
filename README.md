@@ -14,7 +14,7 @@ Perl library to parse Mass Spectrometry text based file formats
 |mzQuantML|.mzq|HUPO-PSI|XML| Quantitation result|mzMLQuant.pm|
 
 # Example Use cases
-Please note that the library will provide data strcutures for further processing. The choice of algorithms (third-party or user-developed) is out of the current scope, even thou7gh some examples are provided.
+Please note that the library will provide data strcutures for further processing. The choice of algorithms (third-party or user-developed) is out of the current scope, even though some examples are provided.
 ## Before search (uninterpreted spectra)
 * Deisotoping
 * Peak picking from raw MS/MS spectra
@@ -40,4 +40,4 @@ Please note that the library will provide data strcutures for further processing
 For help with the library or use cases, please use the issues tracker.
 
 # Email
-For further support, please email suruchi@thsti.res.in with cc to amit.yadav@thsti.res.in
+For further support, please email amit.yadav@thsti.res.in
