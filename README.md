@@ -12,6 +12,15 @@ Perl library to parse Mass Spectrometry text based file formats
 |Pkl (Waters MassLynx peak list format)|.pkl|De facto|Text| Input MS/MS spectra|MSFileParser|
 |DTA|.dta|De facto|Text| Input MS/MS spectra|MSFileParser|
 |mzQuantML|.mzq|HUPO-PSI|XML| Quantitation result|mzMLQuant.pm|
+|MzTab|.mztab|HUPO-PSI|Text/Tab| Identification/QUantification|mzTab.pm
+|mzQc|.mzqc|HUPO-PSI|XML|QC data|mzQc.pm
+|mzPAF|.mzqc|HUPO-PSI|XML|Peak Annotation Format|mzPAF.pm
+|mzSpecLib|.mzsplib|HUPO-PSI|Text|Spectral library text format|mzSpecLib.pm
+|miXML|.miXML|HUPO-PSI|XML|Molecular Interactions Exchange Format|miXML.pm
+|miTab|.miTab|HUPO-PSI|Text|Molecular Interactions in Tab Format|miTab.pm
+
+
+
 
 # Example Use cases
 Please note that the library will provide data strcutures for further processing. The choice of algorithms (third-party or user-developed) is out of the current scope, even though some examples are provided.
